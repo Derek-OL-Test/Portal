@@ -1,0 +1,5 @@
+version: 1
+service:
+  name: Portal
+  lifecycle: generally_available
+  tier: tier_1
