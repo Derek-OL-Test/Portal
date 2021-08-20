@@ -1,6 +1,19 @@
+---
 version: 1
 service:
   name: Portal Service
   lifecycle: generally_available
   tier: tier_2
-  tag: asdf
+  product:
+  o_lkner:
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  repositories:
+  - name: Derek-OL-Test/Portal
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
