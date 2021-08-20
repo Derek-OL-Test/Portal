@@ -3,4 +3,4 @@ service:
   name: Portal Service
   lifecycle: generally_available
   tier: tier_2
-  tag:
+  tag: asdf
