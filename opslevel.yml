@@ -4,6 +4,7 @@ service:
   name: Portal Service
   lifecycle: generally_available
   tier: tier_2
+  owner: Backend
   product:
   language:
   framework:
