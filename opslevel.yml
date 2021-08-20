@@ -5,12 +5,12 @@ service:
   lifecycle: generally_available
   tier: tier_2
   product:
-  o_lkner:
   language:
   framework:
   description:
   aliases:
   tags:
+    - test
   repositories:
   - name: Derek-OL-Test/Portal
     path: "/"
