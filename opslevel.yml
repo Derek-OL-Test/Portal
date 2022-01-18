@@ -10,11 +10,3 @@ service:
   framework:
   description:
   aliases:
-  tags:
-    - test
-  repositories:
-  - name: Derek-OL-Test/Portal
-    path: "/"
-    provider: github
-  tools:
-  dependencies:
